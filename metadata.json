@@ -1,0 +1,5 @@
+{
+  "name": "PinClone",
+  "description": "A Pinterest-style masonry grid application with search, local image upload, and responsive design.",
+  "requestFramePermissions": []
+}
